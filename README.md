@@ -39,6 +39,9 @@ Members borrow many books; each book can be borrowed by many members over time.
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/janeokumbe/library-management-system.git
    cd library-management-system
+
+   ERD Screenshot
+C:\Users\USERR\Desktop\library-management-system\erd.png
 
