@@ -35,3 +35,10 @@ Books ↔ Members (via Loans):
 Many-to-Many (indirect)
 Members borrow many books; each book can be borrowed by many members over time.
 
+**How to Set Up / Run the Project**
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/library-management-system.git
+   cd library-management-system
+
